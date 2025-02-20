@@ -1,4 +1,4 @@
-# Fiifi's Ice Cream Shop - C Programming Project  
+# Ice Cream Shop - C Programming Project  
 
 This project is a **C program** that simulates an interactive ice cream shop ordering system. It demonstrates key programming concepts such as **flow control, nested statements, loops, and conditional statements**.  
 
@@ -21,10 +21,10 @@ This project is a **C program** that simulates an interactive ice cream shop ord
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Darrah-Joshua/fiifi-icecream-shop.git
+   git clone https://github.com/Darrah-Joshua/icecream-ordering-system.git
 2. Navigate to the project folder:
    ```bash
-    cd fiifi-icecream-shop
+    cd icecream-ordering-system
 3. Compile the program using GCC:
    ```bash
     gcc -o icecream_shop icecream_shop.c
